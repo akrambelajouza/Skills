@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Tour"
+  short_description: "Create a narrated tour of any codebase"
+  default_prompt: "Use $project-tour to create a listening-friendly walkthrough of this project."
